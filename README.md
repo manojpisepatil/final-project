@@ -85,7 +85,7 @@ Unblock-File -Path .\setup.ps1
 | Field              | Value                                          |
 | ------------------ | ---------------------------------------------- |
 | Network name       | Localhost 8545                                 |
-| New RPC URL        | [http://127.0.0.1:8545](http://127.0.0.1:8545)   |
+| New RPC URL        | http://127.0.0.1:8545   |
 | Chain ID           | 31337                                          |
 | Currency symbol    | ETH                                            |
 | Block Explorer URL | (Leave blank)                                  |
